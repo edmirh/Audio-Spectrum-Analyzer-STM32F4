@@ -1,5 +1,7 @@
 <h3>Audio Spectrum Analyzer STM32F4</h3>
 
+<pre>python3 dsp-fourier-transform-realtime-plot.py</pre>
+
 <h3>Block scheme</h3>
 <img width="700" height="320" src="https://imgur.com/oRtLfcs.png"></img>
 
